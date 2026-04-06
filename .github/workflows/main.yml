@@ -10,20 +10,21 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # PENTING: Biar Action bisa nulis ke README
+      contents: write
     steps:
       - uses: actions/checkout@v3
 
-      # 1. Update Daftar Repo (Pake repo yang benar: recent-repositories)
-      - uses: gautamkrishnar/recent-repositories@v1.5.0
+      # 1. Update Daftar Repo (Pake Library yang Pasti Ada & Stabil)
+      - name: Update Recent Repositories
+        uses: pankaj2884/recent-repositories@v1.4
         with:
           token: ${{ github.token }}
           count: 5
-          sort: 'updated'
           template: "- [$name]($url) - $description"
 
-      # 2. Update Daftar Commit
-      - uses: gautamkrishnar/blog-post-workflow@master
+      # 2. Update Daftar Commit (Pake Feed Atom Kamu)
+      - name: Update Recent Commits
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "LAST_COMMIT"
           feed_list: "https://github.com/ivanwijayana.atom"
