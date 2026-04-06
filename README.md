@@ -30,20 +30,61 @@ Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembuatan kode
 
 ---
 
-## 🛠️ Kemampuan Teknis
+## 🛠️ Kemampuan Teknis & Arsenal
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,tailwind,nodejs,postgres,aws,docker,git,figma" />
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="25%" valign="top">
+      <div align="left">
+        <h4>💻 Languages</h4>
+        <table>
+          <tr><td><img src="https://skillicons.dev/icons?i=js&size=24"/></td><td>JavaScript</td></tr>
+          <tr><td><img src="https://skillicons.dev/icons?i=ts&size=24"/></td><td>TypeScript</td></tr>
+          <tr><td><img src="https://skillicons.dev/icons?i=py&size=24"/></td><td>Python</td></tr>
+          <tr><td><img src="https://skillicons.dev/icons?i=html&size=24"/></td><td>HTML5</td></tr>
+          <tr><td><img src="https://skillicons.dev/icons?i=css&size=24"/></td><td>CSS3</td></tr>
+        </table>
+      </div>
+    </td>
+    <td width="25%" valign="top">
+      <div align="left">
+        <h4>🚀 Frameworks</h4>
+        <table>
+          <tr><td><img src="https://skillicons.dev/icons?i=react&size=24"/></td><td>React.js</td></tr>
+          <tr><td><img src="https://skillicons.dev/icons?i=nextjs&size=24"/></td><td>Next.js</td></tr>
+          <tr><td><img src="https://skillicons.dev/icons?i=tailwind&size=24"/></td><td>Tailwind</td></tr>
+          <tr><td><img src="https://skillicons.dev/icons?i=nodejs&size=24"/></td><td>Node.js</td></tr>
+        </table>
+      </div>
+    </td>
+    <td width="25%" valign="top">
+      <div align="left">
+        <h4>🗄️ Databases</h4>
+        <table>
+          <tr><td><img src="https://skillicons.dev/icons?i=postgres&size=24"/></td><td>PostgreSQL</td></tr>
+          <tr><td><img src="https://skillicons.dev/icons?i=mongodb&size=24"/></td><td>MongoDB</td></tr>
+          <tr><td><img src="https://skillicons.dev/icons?i=mysql&size=24"/></td><td>MySQL</td></tr>
+          <tr><td><img src="https://skillicons.dev/icons?i=redis&size=24"/></td><td>Redis</td></tr>
+        </table>
+      </div>
+    </td>
+    <td width="25%" valign="top">
+      <div align="left">
+        <h4>🛠️ Tools & Ops</h4>
+        <table>
+          <tr><td><img src="https://skillicons.dev/icons?i=git&size=24"/></td><td>Git</td></tr>
+          <tr><td><img src="https://skillicons.dev/icons?i=docker&size=24"/></td><td>Docker</td></tr>
+          <tr><td><img src="https://skillicons.dev/icons?i=aws&size=24"/></td><td>AWS Cloud</td></tr>
+          <tr><td><img src="https://skillicons.dev/icons?i=figma&size=24"/></td><td>Figma</td></tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 Aktivitas GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ivanwijayana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanwijayana&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanwijayana&theme=tokyonight&hide_border=true" width="100%" />
@@ -51,10 +92,15 @@ Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembuatan kode
 
 ---
 
-## 🐍 Contribution Graph
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ivanwijayana/ivanwijayana/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+
+
+## 🕒 Aktivitas Terbaru (Otomatis)
+
+| 📂 Last Projects | 📝 Recent Commits |
+| :--- | :--- |
+| | |
+
+
 
 ---
 
