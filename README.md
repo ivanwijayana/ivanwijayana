@@ -15,9 +15,19 @@
 
   ---
 
-  | 🌐 [Portfolio](https://portofolio-ivanwijayana.vercel.app/) | 💼 [LinkedIn](https://linkedin.com/in/ivanwijayana) | 📧 [Email](mailto:ivanwijayana@example.com) |
-  | :---: | :---: | :---: |
+ <div align="center">
 
+  <a href="https://portofolio-ivanwijayana.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-36BCF7?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ivanwijayana">
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-007ACC?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="mailto:ivanwijayana@example.com">
+    <img src="https://img.shields.io/badge/📧_EMAIL-D14836?style=for-the-badge&logoColor=white" />
+  </a>
+
+</div>
 </div>
 
 ## 📖 Tentang Saya
