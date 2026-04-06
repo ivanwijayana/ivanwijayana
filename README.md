@@ -2,24 +2,22 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Halo,%20Saya%20[Nama%20Kamu]&fontSize=60&animation=fadeIn" width="100%" />
 
-  ### ✨ Fullstack Alchemist & UI/UX Architect
-  
-  [![Followers](https://img.shields.io/github/followers/USERNAME_KAMU?label=Followers&style=for-the-badge&color=2ecc71&logo=github)](https://github.com/USERNAME_KAMU)
-  [![Stars](https://img.shields.io/github/stars/USERNAME_KAMU?label=Total%20Stars&style=for-the-badge&color=f1c40f&logo=reverbnation)](https://github.com/USERNAME_KAMU)
-  [![Views](https://komarev.com/ghpvc/?username=USERNAME_KAMU&color=3498db&style=for-the-badge&label=Profile+Views)](https://github.com/USERNAME_KAMU)
+  [![Followers](https://img.shields.io/github/followers/ivanwijayana?label=Followers&style=for-the-badge&color=2ecc71&logo=github)](https://github.com/ivanwijayana)
+  [![Stars](https://img.shields.io/github/stars/ivanwijayana?label=Total%20Stars&style=for-the-badge&color=f1c40f&logo=reverbnation)](https://github.com/ivanwijayana)
+  [![Views](https://komarev.com/ghpvc/?username=ivanwijayana_KAMU&color=3498db&style=for-the-badge&label=Profile+Views)](https://github.com/ivanwijayana)
 
   ---
 </div>
 <div align="center">
 
-# Halo, Saya [Nama Kamu] 👋
+# WELCOME TO MY GITHUB 👋
 ### 🚀 Fullstack Developer | Open Source Contributor | Tech Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+scalable+web+applications;Solutive+problem+solver;Continuous+learner)](https://git.io/typing-svg)
 
 ---
 
-| 🌐 [Website](https://yourlink.com) | 💼 [LinkedIn](https://linkedin.com/in/yourusername) | ✍️ [Blog](https://yourblog.com) |
+| 🌐 [Website](https://https://portofolio-ivanwijayana.vercel.app/) | 💼 [LinkedIn](https://linkedin.com/in/ivanwijayana) | ✍️ [Blog](https://yourblog.com) |
 | :---: | :---: | :---: |
 
 </div>
@@ -56,12 +54,12 @@ Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembuatan kode
 ## 📊 Aktivitas GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ivanwijayana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanwijayana&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/ivanwijayana&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
