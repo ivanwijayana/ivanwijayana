@@ -104,15 +104,7 @@ Saya adalah seorang pengembang perangkat lunak yang berfokus pada pembuatan kode
 
 
 
-## 🕒 Aktivitas Terbaru (Otomatis)
 
-| 📂 Last Projects | 📝 Recent Commits |
-| :--- | :--- |
-| | |
-
-
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
