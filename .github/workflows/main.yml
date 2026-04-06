@@ -1,0 +1,29 @@
+name: Update Profile README
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 */3 * * *' # Berjalan otomatis tiap 3 jam
+  workflow_dispatch: # Memungkinkan kamu update manual lewat tombol
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      # Step untuk ambil Daftar Repo Terbaru
+      - uses: gautamkrishnar/user-repository-list@master
+        with:
+          token: ${{ github.token }}
+          count: 5
+          sort: 'updated'
+          template: "- [$name]($url) - $description"
+
+      # Step untuk ambil Commit Terbaru (Realtime dari feed GitHub kamu)
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "LAST_COMMIT"
+          feed_list: "https://github.com/ivanwijayana.atom"
+          max_post_count: 5
+          template: "- $title ($date)"
